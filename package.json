@@ -1,5 +1,5 @@
 {
-  "name": "rollbar",
+  "name": "@sandfox/rollbar",
   "description": "A standalone (Node.js) client for Rollbar",
   "homepage": "https://rollbar.com/docs/notifier/node_rollbar/",
   "keywords": [
